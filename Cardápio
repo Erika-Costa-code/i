@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Cardápio</title>
+	<meta name="viewport" content="user-scalable=no, initial-scale=1, 
+		maximum-scale=1, minimum-scale=1, width=device-width">
+</head>
+<body>
+
+<div id="cardapio" class="cardapio">
+	<h2 class="center">CARDÁPIO PILÃO PAULISTA</h2>
+	<div class="row container">
+	<div class="col s12 m6 l6">
+		<h3 class="center">SELF SERVICE</h3>
+		
+		<div class="col s12 m6 l6">
+			<div class="Dia 1">
+			</div>
+			<div>
+				<h5>SEGUNDA FEIRA<br>
+                    Arroz <br>
+                    Feijão<br>
+                    Arroz de Forno<br>
+                    Macarrão<br>
+                    Filé de Frango grelhado<br>
+                    Batata frita<br>
+                     
+                    Churrasco:<br>
+                    Bovino<br> Suíno<br> Aves<br>
+                    Linguiça Toscana<br>
+                    
+                    Acompanhamentos:<br>
+                    Refogados:<br>
+                    Abobrinha <br>
+                    Couve manteiga<br>
+                    Ervilha <br>
+                    Vagem<br>
+                    Repolho<br>
+                    Outros vegetais conforme sazonalidades<br>
+                    Buffet de saladas
+                    </h5>
+				
+				 <div class="chip">Preço do quilo - R$ 65,00</div>
+			</div>
+		</div>
+		<div class="col s12 m6 l6">
+			<div class="dia 2">
+			</div>
+			<div>
+				<h5>TERÇA FEIRA<br>
+                    Arroz<br>
+                    Feijão<br>
+                    Arroz de Forno<br>
+                    Macarrão<br>
+                    Filé de Frango grelhado<br>
+                    Batata frita<br>
+
+                    Churrasco:<br>
+                    Bovino<br> Suíno<br> Aves<br>
+                 Linguiça Toscana<br>
+
+                  Acompanhamentos:<br>
+                  Refogados:<br>
+                  Abobrinha <br>
+                   Couve manteiga<br>
+                   Ervilha <br>
+                   Vagem<br>
+                   Repolho<br>
+                  Outros vegetais conforme sazonalidades<br>
+                  Buffet de saladas </h5>
+				
+				 <div class="chip">Preço do quilo - R$ 65,00</div>
+			</div>
+		</div>
+		<div class="col s12 m6 l6">
+			<div class="Dia 3 ">
+			</div>
+			<div>
+				<h5>QUARTA FEIRA<br>
+                    Arroz<br>
+                    Feijão<br>
+                    Feijoada<br>
+                    Arroz de Forno<br>
+                    Macarrão<br>
+                    Filé de Frango grelhado<br>
+                    Batata frita<br>
+                    
+                    Churrasco:<br>
+                    Bovino, Suíno, Aves<br>
+                    Linguiça Toscana<br>
+                    
+                    Acompanhamentos:<br>
+                    Refogados:<br>
+                    Abobrinha <br>
+                    Couve manteiga<br>
+                    Ervilha <br>
+                    Vagem<br>
+                    Repolho<br>
+                    Outros vegetais conforme sazonalidades<br>
+                    Buffet de saladas<br>
+                    
+                </h5>
+				
+				 <div class="chip">Preço do quilo - R$ 75,00</div>
+			</div>
+		</div>
+		<div class="col s12 m6 l6">
+			<div class="dia 4">
+			</div>
+			<div>
+				<h5>QUINTA FEIRA<br>
+                    Arroz<br>
+                    Feijão<br>
+                    Arroz de Forno<br>
+                    Macarrão<br>
+                    Lasanha<br>
+                    Filé de Frango grelhado<br>
+                    Batata frita<br>
+                    
+                    Churrasco:<br>
+                    Bovino<br> Suíno<br> Aves<br>
+                    Linguiça Toscana<br>
+                    
+                    Acompanhamentos:<br>
+                    Refogados:<br>
+                    Abobrinha <br>
+                    Couve manteiga<br>
+                    Ervilha <br>
+                    Vagem<br>
+                    Repolho<br>
+                    Outros vegetais conforme sazonalidades<br>
+                    Buffet de saladas<br>
+                    
+                </h5>
+				
+				 <div class="chip">Preço do quilo - R$ 75,00</div>
+			</div>
+		</div>
+	</div>
+    <div class="col s12 m6 l6">
+        <div class="Dia 5">
+        </div>
+        <div>
+            <h5>SEXTA FEIRA<br>
+                Arroz <br>
+                Feijão<br>
+                Arroz de Forno<br>
+                Macarrão<br>
+                Filé de Frango grelhado<br>
+                Batata frita<br>
+                 
+                Churrasco:<br>
+                Bovino<br> Suíno<br> Aves<br>
+                Linguiça Toscana<br>
+                
+                Acompanhamentos:<br>
+                Refogados:<br>
+                Abobrinha <br>
+                Couve manteiga<br>
+                Ervilha <br>
+                Vagem<br>
+                Repolho<br>
+                Outros vegetais conforme sazonalidades<br>
+                Buffet de saladas
+                </h5>
+		<div class="col s12 m6 l6">
+			<h3 class="center">MARMITAS</h3>
+			<div class="row">
+				<div class="col s12 m6 l6">
+					<div class="menu-item item5">
+					</div>
+					<div>
+						<h5>Tabela de tamanhos disponíveis </h5>
+
+                        <table>
+ 
+                            <thead>
+                             
+                              <tr>
+                             
+                                  <th>Marmitas</th>    
+                             
+                                  <th>Tamanhos</th>
+                             
+                                  <th>Modalidade</th>
+
+                                  <th>Modalidade</th>
+                             
+                              </tr>
+                             
+                            </thead>
+                             
+                             
+                             
+                            <tbody>
+                             
+                              <tr>
+                             
+                                <td>Tam-1  </td>
+                             
+                                <td>Grande</td>
+                             
+                                <td>Retira</td>
+
+                                <td>Entrega</td>
+
+
+                             
+                              </tr>
+                             
+                              <tr>
+                             
+                                <td>Tam-2 </td>
+                             
+                                <td>Média</td>
+                             
+                                <td>Retira</td>
+
+                                <td>Entrega</td>
+                             
+                              </tr>
+                             
+                              <tr>
+                             
+                                <td>Tam-3  </td>
+                             
+                                <td>Pequena</td>
+                             
+                                <td>Retira</td>
+
+                                <td>Entrega</td>
+                             
+                              </tr>
+                             
+                              <tr>
+                             
+                              </tr>         
+                             
+                            </tbody>
+                             
+                            </table>
+
+					</div>
+				</div>	
+			</div>
+        </div>
+
+	</div>	
+</div>
+
+<footer class="page-footer grey darken-4">
+	<div class="container">
+		<div class="row valign-wrapper">
+			<div class="col s12 m4 l4">
+				<p class="white-text"><i class="Endereço"> Endereço: </i>  Em algum lugar do Brasil</p>	
+						
+				<p class="white-text"><i class="Contato"> Contato: </i>  atendimento@dominio.com</p>
+			</div>
+			<div class="col s12 m4 l4 hide-on-med-and-down">
+				<div class="logo"></div>
+			</div>
+            
+			<div class="col s12 m4 l4 ">
+			<div class="valign-wrapper">
+				<div class="">		
+					<ul class="social-medias">
+						<li><a class="grey-text text-lighten-3 facebook" href="#!"> Facebook </a></li>
+						<li><a class="grey-text text-lighten-3 twitter" href="#!"> Twitter </a></li>
+						<li><a class="grey-text text-lighten-3 instagram" href="#!"> Instagram </a></li>
+						<li><a class="grey-text text-lighten-3 youtube" href="#!"> Youtube </a></li>
+					</ul>
+				</div>
+			</div>
+			</div>
+		</div>
+	</div>
+	<div class="footer-copyright black">
+		<div class="container">
+			© 2023 Copyright Cardápio
+			<a class="grey-text text-lighten-4 right" target="_blank" href="https://github.com/Erika-Costa-code">Erika-Costa-code</a>
+		</div>
+	</div>
+</footer>
+
+</body>
+</html>
